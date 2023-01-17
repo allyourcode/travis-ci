@@ -2,4 +2,4 @@ dist: focal
 
 language: python
 
-script: python3 foo.py
+script: ./foo.py
