@@ -1,0 +1,6 @@
+arch:
+  - arm64
+
+script:
+  - foo.py
+ 
