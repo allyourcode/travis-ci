@@ -1,3 +1,7 @@
 #!/usr/bin/env python3
 
-print('Hello, world!')
+import sys
+
+print('I have a bad feeling about this.')
+
+sys.exit(1)
