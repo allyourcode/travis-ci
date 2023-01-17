@@ -1,6 +1,5 @@
-arch:
-  - arm64
+dist: focal
 
-script:
-  - foo.py
- 
+language: python
+
+script: python3 foo.py
